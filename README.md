@@ -38,7 +38,7 @@ Unlike standard classification models, this project uses a **Long Short-Term Mem
 │   └── glove_firmware.ino     # Microcontroller code to stream sensor data
 ├── ml_model/
 │   ├── data_collector.py      # Method 1: Hotkey-prompt dataset script
-│   ├── train_lstm.py          # TensorFlow/Keras training pipeline
+│   ├── lstm_training.py          # TensorFlow/Keras training pipeline
 │   └── sign_sync_model.h5     # Trained LSTM weights file
 ├── sign_dataset/              # Collected samples split by gesture label
 │   ├── hello/
@@ -80,7 +80,7 @@ The model utilizes dropout layers to prevent overfitting and a softmax activatio
 ---
 
 ## 👥 Authors
-- **[Your Name]** - *Lead Developer* - [@YourGitHubUsername](https://github.com)
+- **HARSITHRAM** - *Lead Developer* - [@HARSITHRAM](https://github.com/HARSITHRAM/)
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
