@@ -3,7 +3,7 @@ This Project combines embedded and LSTM to convert sign language to actual sente
 
 # SignSync: An LSTM-Powered Smart Glove for Sign Language Translation
 
-SignSync is an assistive technology wearable designed to bridge the communication gap between the deaf community and the hearing world. By combining hardware sensor arrays with Deep Learning, this smart glove translates continuous hand gestures and finger movements into digital text and speech in real-time.
+SignSync is an assistive technology wearable designed to bridge the communication gap between the deaf community and the hearing world. By combining hardware sensor arrays with Deep Learning, this smart glove translates continuous hand gestures and finger movements into digital text and speech in real-time....
 
 ---
 
