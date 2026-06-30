@@ -3,10 +3,10 @@
 #include <Wire.h>
 #include <Adafruit_MPU6050.h>
 #include <Adafruit_Sensor.h>
-
+//successfully tested and simulated the workflow
 // --- WiFi and MQTT Configuration ---
-const char* ssid     = "YOUR_WIFI_SSID";
-const char* password = "YOUR_WIFI_PASSWORD";
+const char* ssid     = "Rash";
+const char* password = "12345678";
 const char* mqtt_server = "192.168.1.X"; // Your PC's local IP address or a public broker like "://hivemq.com"
 const int mqtt_port = 1883;
 const char* topic   = "glove/sensors";
